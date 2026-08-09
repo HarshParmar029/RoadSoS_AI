@@ -145,8 +145,7 @@ RoadSoS-AI/
 
 ## 🎬 Demo
 
-- **Demo Video:** [Add your YouTube / Loom link here]
-- **Repository:** https://github.com/HarshParmar029/RoadSoS-AI
+- **Demo Video:** https://drive.google.com/file/d/1f3khIaQDPH8u1nDQI4YUzDPpxsDhniGN/view?usp=sharing
 
 ---
 
